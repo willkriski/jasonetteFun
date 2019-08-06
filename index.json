@@ -1,15 +1,15 @@
 { 
-  "$jason": { 
-         "head": { 
-             "title": "Embedded Website"
-         },
-         "body": {  
-                 "background": { 
-                 "type": "html",   
-                 "url": "https://gab.com/home",
-                 "action": {
-                         "trigger": "navigate"}  
-                 } 
-          }
-        }
+    "$jason": { 
+           "head": { 
+               "title": "Embedded Website"
+           },
+           "body": {  
+                   "background": { 
+                   "type": "html",   
+                   "url": "https://gab.com/home",
+                   "action": {
+                           "trigger": "$default"}  
+                   } 
+               }
+}
 }
