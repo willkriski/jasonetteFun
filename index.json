@@ -1,14 +1,15 @@
 { 
-     "$jason": { 
-            "head": { 
-                "title": "Embedded Website"
-            },
-            "body": {  
-                    "background": { 
-                    "type": "html",   
-                    "url": "http://potatostrong.com",
-                    "action": {
-                            "trigger": "navigate"}  
-                    } 
-                }
+  "$jason": { 
+         "head": { 
+             "title": "Embedded Website"
+         },
+         "body": {  
+                 "background": { 
+                 "type": "html",   
+                 "url": "http://potatostrong.com",
+                 "action": {
+                         "trigger": "navigate"}  
+                 } 
+          }
+        }
 }
