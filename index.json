@@ -6,7 +6,7 @@
          "body": {  
                  "background": { 
                  "type": "html",   
-                 "url": "http://potatostrong.com",
+                 "url": "https://gab.com/home",
                  "action": {
                          "trigger": "navigate"}  
                  } 
