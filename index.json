@@ -1,0 +1,12 @@
+{ 
+     "$jason": { 
+            "head": { 
+                "title": "Dark ListView Mixin"
+            },
+            "body": {  
+                    "background": { 
+                    "type": "html",   
+                    "url": "https://news.ycombinator.com"   }  
+                    } 
+                }
+}
