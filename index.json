@@ -1,12 +1,14 @@
 { 
      "$jason": { 
             "head": { 
-                "title": "Dark ListView Mixin"
+                "title": "Embedded Website"
             },
             "body": {  
                     "background": { 
                     "type": "html",   
-                    "url": "http://potatostrong.com"   }  
+                    "url": "http://potatostrong.com",
+                    "action": {
+                            "trigger": "navigate"}  
                     } 
                 }
 }
